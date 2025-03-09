@@ -20,7 +20,6 @@ public class CreateThread {
             @Override
             public void run() {
                 System.out.println("子线程 running");
-                
             }
         };
         thread1.start();
