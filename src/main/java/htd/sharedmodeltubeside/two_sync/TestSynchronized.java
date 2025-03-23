@@ -1,7 +1,7 @@
 package htd.sharedmodeltubeside.two_sync;
 
-import htd.utils.Sout;
 
+import htd.utils.Sout;
 /**
  * Project: Concurrent
  * Create By: ChenFuXu
@@ -34,7 +34,6 @@ public class TestSynchronized {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
     }
 }
 
